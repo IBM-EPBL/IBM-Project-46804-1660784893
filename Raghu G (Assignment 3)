@@ -1,5 +1,3 @@
-# IBM-Project-46804-1660784893
-Real-Time River Water Quality Monitoring and Control System
 #PROGRAM FOR TRAFFIC LIGHT
 
 import RPi.GPIO as GPIO  
